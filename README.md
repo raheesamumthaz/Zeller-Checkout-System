@@ -38,3 +38,42 @@ Total expected: $249.00
 
 SKUs Scanned: atv, ipd, ipd, atv, ipd, ipd, ipd
 Total expected: $2718.95
+
+
+
+# Solution
+
+The codebase in this repository is the solution to the problem mentioned above.
+
+## How to install
+
+### Pull the repository
+
+```sh
+$ git clone https://github.com/raheesamumthaz/Zeller-Checkout-System.git
+```
+
+### Change into the directory
+
+```sh
+$ cd Zeller-Checkout-System
+```
+
+### Install the dependency
+
+
+
+##### Using NPM
+
+```sh
+$ npm install
+```
+
+### Run the solution
+
+
+##### Using NPM
+
+```sh
+$ npm run start
+```
